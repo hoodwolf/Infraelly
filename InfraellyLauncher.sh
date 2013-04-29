@@ -46,7 +46,7 @@ do
     echo "[8] Two Clients"
     echo "[9] Quit"
 
-    if [ $unknownMode -eq 1 ]
+    if [ $unknownMode in -eq 1 ]
     then
         echo "Unknown recognised mode: $mode"
         unknownMode=0
@@ -55,7 +55,7 @@ do
     read mode
     echo 
 
-    case $mode
+    case $mode in
         "1")
             echo "Infraelly Client"
             
