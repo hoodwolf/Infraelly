@@ -17,7 +17,7 @@ unknownMode=0
 S_IP=99.65.54.71
 S_PORT=1337
 
-while [ $running in -eq 1 ]
+while [ $running -eq 1 ]
 do
     clear
     echo "                         ____"
@@ -46,13 +46,13 @@ do
     echo "[8] Two Clients"
     echo "[9] Quit"
 
-    if [ $unknownMode in -eq 1 ]
+    if [ $unknownMode -eq 1 ]
     then
         echo "Unknown recognised mode: $mode"
         unknownMode=0
     fi
      
-    read mode
+    read mode in
     echo 
 
     case $mode in
