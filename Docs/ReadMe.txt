@@ -46,7 +46,7 @@ Pronounced: In-Fray-Lee
  Description
 =============
 
-Infraelly is a free Massively Multiplayer Online Roll Playing Game/Engine. It
+Infraelly is a free Massively Multiplayer Online Role Playing Game/Engine. It
 hopes to encourage teamwork, friendships and many hours of family friendly fun.
 
 Infraelly will have a vast world with many maps to explore; items to collect,
@@ -54,7 +54,7 @@ use and make; NPCS to interact with; quests to undertake and claim glory;
 enemies to defeat; and land to conquer.
 
 Atop its typical RPG elements, Infraelly will also have areas for players to
-relax and chat to one another, and play non-competitive mini-games.
+relax and chat with one another, and play non-competitive mini-games.
 
 
 ==========
@@ -124,7 +124,7 @@ All Infraelly content files are are licensed Under according to the file:
 =========
 
 For any further feedback
-E-mail: insanepotato@hotmail.com
+E-mail: insanepotato@hotmail.com 
 
 
 --------------
@@ -136,7 +136,6 @@ https://sourceforge.net/projects/infraelly/
  Home Page
 -----------
 http://infraelly.sourceforge.net/
-http://infraelly.comli.com/infraelly/  (i think this link is dead x_x)
 
 
 ------------------------------------------------------------------------------------------------
