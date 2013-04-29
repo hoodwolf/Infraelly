@@ -52,7 +52,7 @@ do
         unknownMode=0
     fi
      
-    read mode in
+    read mode
     echo 
 
     case $mode in
