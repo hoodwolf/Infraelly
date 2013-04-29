@@ -14,7 +14,7 @@ running=1
 mode=0
 unknownMode=0
 
-S_IP=127.0.0.1
+S_IP=99.65.54.71
 S_PORT=1337
 
 while [ $running -eq 1 ]
