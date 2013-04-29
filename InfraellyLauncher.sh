@@ -17,7 +17,7 @@ unknownMode=0
 S_IP=99.65.54.71
 S_PORT=1337
 
-while [ $running -eq 1 ]
+while [ $running in -eq 1 ]
 do
     clear
     echo "                         ____"
