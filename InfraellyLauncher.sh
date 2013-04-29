@@ -55,7 +55,7 @@ do
     read mode
     echo 
 
-    case $mode in
+    case $mode
         "1")
             echo "Infraelly Client"
             
