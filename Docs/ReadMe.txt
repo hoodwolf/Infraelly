@@ -113,7 +113,7 @@ The font files come with their own readme. Please refer to "fonts/readme.html"
 Content is NOT open source. All content is CLOSED SOURCE and COPYRIGHTED.
 
 All Infraelly content files are are licensed Under according to the file:
-"Docs/InfaellyContentLicense.txt"
+"Docs/InfraellyContentLicense.txt"
 
 
 
